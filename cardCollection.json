@@ -1,0 +1,14 @@
+[
+  {
+    "front": "Testa",
+    "back": "Fail"
+  },
+  {
+    "front": "Testb",
+    "back": "Works"
+  },
+  {
+    "text": "My Name is Fatima",
+    "cloze": "Fatima"
+  }
+]
